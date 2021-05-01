@@ -36,9 +36,9 @@ Transformation include reorder the columns, drop columns that are not useful for
 
 **historical_trends.ipynb**<br/>
 4.	Pricing trends from 1996 to 2021<br/>
-  a. Line graph showing entire US and metropolitan areas<br/>
-  b. Show entire US pricing trend vs stock market index <br/>
-  c. Show entire US pricing trend vs lumber prices<br/>
+  a.  Line graph showing entire US and metropolitan areas<br/>
+  b.  Show entire US pricing trend vs stock market index <br/>
+  c.  Show entire US pricing trend vs lumber prices<br/>
 
 
  
