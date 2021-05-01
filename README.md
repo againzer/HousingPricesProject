@@ -1,7 +1,7 @@
-#HousingPricesProject
+# HousingPricesProject
 Housing Prices Trends using Zillow &amp; Census Data
 
-##Resources
+## Resources
 
 **Raw Data Source:**
 Zip_zhvi_uc_sfrcondo.csv
@@ -24,21 +24,21 @@ Transformation include reorder the columns, drop columns that are not useful for
 4. zillow_his_suburb.csv - contain zillow zhvi data from 1996/01 to 2021/03 suburb area
 
 **HousingPriceAnalysis.ipynb**
-1.	Does income level increase as housing prices increase?
-  o	Scatter plot with regression for entire US
-  o	Scatter plot with regression for entire US for metropolitan areas
-2.	Is median age correlated to housing prices?
-  o	Present age in buckets for categorical
-  o	Bar chart showing age categories vs median housing price
-3.	How are housing prices correlated to population density?
-  o	Scatter plot with regression for entire US
-  o	Scatter plot with regression for entire US for metropolitan areas
+1.	Does income level increase as housing prices increase?<br/>
+  a.	Scatter plot with regression for entire US<br/>
+  b.  Scatter plot with regression for entire US for metropolitan areas<br/>
+2.	Is median age correlated to housing prices?<br/>
+  a.  Present age in buckets for categorical<br/>
+  b.  Bar chart showing age categories vs median housing price<br/>
+3.	How are housing prices correlated to population density?<br/>
+  a.  Scatter plot with regression for entire US<br/>
+  b.  Scatter plot with regression for entire US for metropolitan areas<br/>
 
 **historical_trends.ipynb**
-4.	Pricing trends from 1996 to 2021
-  o	Line graph showing entire US and metropolitan areas
-  o	Show entire US pricing trend vs stock market index 
-  o	Show entire US pricing trend vs lumber prices
+4.	Pricing trends from 1996 to 2021<br/>
+  a. Line graph showing entire US and metropolitan areas<br/>
+  b. Show entire US pricing trend vs stock market index <br/>
+  c. Show entire US pricing trend vs lumber prices<br/>
 
 
  
