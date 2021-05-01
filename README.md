@@ -15,15 +15,15 @@ This data is copied from Yahoo finance website
 https://finance.yahoo.com/quote/%5EGSPC/history?period1=822528000&period2=1619308800&interval=1mo&filter=history&frequency=1mo&includeAdjustedClose=true
 
 ## Scripts
-**DataCleaning.ipynb**
-Data is cleaned in this python script. 4 output csv files are generated.
-Transformation include reorder the columns, drop columns that are not useful for this analysis, merge data set, sort data set.
-1. zillow_census_metro.csv - contain merged zillow zhvi data and census data for metro area for 2021/03/31
-2. zillow_census_suburb.csv - contain merged zillow zhvi data and census data for suburb area for 2021/03/31
-3. zillow_his_metro.csv - contain zillow zhvi data from 1996/01 to 2021/03 for metro area
-4. zillow_his_suburb.csv - contain zillow zhvi data from 1996/01 to 2021/03 suburb area
+**DataCleaning.ipynb**<br/>
+Data is cleaned in this python script. 4 output csv files are generated.<br/>
+Transformation include reorder the columns, drop columns that are not useful for this analysis, merge data set, sort data set.<br/>
+1. zillow_census_metro.csv - contain merged zillow zhvi data and census data for metro area for 2021/03/31<br/>
+2. zillow_census_suburb.csv - contain merged zillow zhvi data and census data for suburb area for 2021/03/31<br/>
+3. zillow_his_metro.csv - contain zillow zhvi data from 1996/01 to 2021/03 for metro area<br/>
+4. zillow_his_suburb.csv - contain zillow zhvi data from 1996/01 to 2021/03 suburb area<br/>
 
-**HousingPriceAnalysis.ipynb**
+**HousingPriceAnalysis.ipynb**<br/>
 1.	Does income level increase as housing prices increase?<br/>
   a.	Scatter plot with regression for entire US<br/>
   b.  Scatter plot with regression for entire US for metropolitan areas<br/>
@@ -34,7 +34,7 @@ Transformation include reorder the columns, drop columns that are not useful for
   a.  Scatter plot with regression for entire US<br/>
   b.  Scatter plot with regression for entire US for metropolitan areas<br/>
 
-**historical_trends.ipynb**
+**historical_trends.ipynb**<br/>
 4.	Pricing trends from 1996 to 2021<br/>
   a. Line graph showing entire US and metropolitan areas<br/>
   b. Show entire US pricing trend vs stock market index <br/>
